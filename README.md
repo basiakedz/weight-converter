@@ -2,6 +2,10 @@
 
 This mini App allows to convert the unit of weight - pounds to grams, kilograms and ounces.
 
+### Link
+
+- Live preview: [https://weight-converter-basiakedz.netlify.app/](https://weight-converter-basiakedz.netlify.app/)
+
 ![Screenshot of App](./public/screenshot-of-app.png)
 
 ## Getting Started with Create React App
